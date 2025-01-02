@@ -45,6 +45,7 @@ https://wolfyxon.github.io/3ds-web-stuff
 - [ ] [Brush](https://wolfyxon.github.io/3ds-web-stuff/other/brush) - basically a drawing app
 - [ ] Chat Room - global online web chat
 - [ ] Weather app - a weather app utilizing the [OpenMeteo](https://open-meteo.com/) API
+- [ ] PixText - A text app utilizing the TNDS api
 
 ## Screenshots
 <p>
